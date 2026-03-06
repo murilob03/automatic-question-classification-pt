@@ -1,0 +1,5 @@
+model,Accuracy,F1 Macro,F1 Weighted,Recall Macro,Precision Macro
+svc,0.653,0.58,0.647,0.63,0.568
+lr,0.649,0.58,0.647,0.593,0.586
+nb,0.624,0.517,0.604,0.505,0.593
+rf,0.457,0.413,0.443,0.489,0.413
