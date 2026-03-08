@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+fastparquet
+seaborn
+transformers
+torch
+nltk
+spacy

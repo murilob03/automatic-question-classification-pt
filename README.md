@@ -62,13 +62,17 @@ pip install -r requirements.txt
 
 ## 📝 Reference
 
+[!IMPORTANT]
+This paper has been submitted to PROPOR 2026. The citation below is a placeholder and will be updated with the official volume and page numbers upon publication.
+
 If you use this dataset or code in your research, please cite our paper:
 
 ```bibtex
 @article{boccardo-2026,
   title={Automatic Question classification in Portuguese: A Large-Scale Dataset and Comparative Evaluation of Classification Strategies},
   author={Boccardo, Murilo and Feltrim, Val{\'e}ria D.},
-  journal={PROPOR},
-  year={2026}
+  booktitle={Proceedings of the 17th International Conference on Computational Processing of Portuguese},
+  year={2026},
+  note={To appear}
 }
 ```
